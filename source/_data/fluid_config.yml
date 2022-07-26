@@ -370,7 +370,7 @@ footer:
         margin: 0 auto;
         "
       >
-      <img src="https://gitee.com/Stubborner/images/raw/master/images/ypylogo.png" style="width:100%;border-radius:8px">
+      <img src="/images/yplogo.png" style="width:100%;border-radius:8px">
     </a>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
